@@ -5,7 +5,7 @@
 }
 
 :root {
-    --primary: #f5b914;
+    --primary: #d5b96a;
     --secondary: #d16a16;
     --dark: #1a1a2e;
     --light: #f2f2f2;
@@ -732,8 +732,8 @@ footer {
 }
 
 :root {
-    --primary: #f5b914;
-    --secondary: #d16a16;
+    --primary: #f28d00;
+    --secondary: #e2ca0e;
     --dark: #1a1a2e;
     --light: #f2f2f2;
     --white: #ffffff;
@@ -1017,7 +1017,7 @@ nav {
 }
 /* ==== Fundo da seção "Bem-vindo à Escola Alfredo Cardoso" ==== */
 .hero {
-    background-image: url("images/EE DR.webp");
+    background-image: url("images/aaa.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1064,8 +1064,8 @@ nav {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url("images/EE DR.webp") center/cover no-repeat;
-    filter: blur(2px); /* 👈 deixa a imagem levemente embaçada */
+    background: url("images/aaa.jpg") center/cover no-repeat;
+    filter: blur(2.5px); /* 👈 deixa a imagem levemente embaçada */
     transform: scale(1.05); /* evita bordas visíveis do blur */
     z-index: 0;
     opacity: 0.9;
